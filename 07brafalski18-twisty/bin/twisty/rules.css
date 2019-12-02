@@ -1,0 +1,70 @@
+#twistpane{
+
+-fx-background-size: 900,600;
+
+
+}
+
+#guessedpane{
+-fx-pref-width: 100;
+-fx-background-color: white;
+-fx-background-radius: 20;
+}
+
+#guessedword{
+-fx-text-fill: red;
+-fx-font-size: 25px
+
+}
+
+#centerpane{
+-fx-pref-width: 600;
+-fx-background-color: blue;
+-fx-background-image: "visual/background.png";
+
+-fx-vgap: 50;
+}
+
+#decorationpane{
+
+}
+
+#buttonsletterspane{
+-fx-border-style: solid;
+-fx-border-width: 10;
+-fx-background-color:white;
+-fx-border-color:grey;
+-fx-background-radius: 20;
+-fx-pref-width: 500;
+-fx-hgap: 20; 
+-fx-alignment: center;
+
+-fx-font-family: 'serif';
+-fx-font-size: 15px
+}
+
+.buttonletters{
+-fx-text-fill: red;
+-fx-alignment:center;
+}
+
+#buttonscontrolpane{
+
+-fx-font-size: 20px;
+-fx-hgap: 20;
+}
+
+.buttonscontrol{
+-fx-text-fill: red;
+-fx-font-family: 'serif';
+}
+
+#scoretimepane{
+-fx-hgap: 20;
+}
+
+.scoretimelbl{
+-fx-font-family: 'Consolas' monospace;
+-fx-font-size: 50px;
+-fx-text-fill: white;
+}

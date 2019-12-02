@@ -1,0 +1,104 @@
+#paneBottom{
+-fx-background-color: navy;
+-fx-alignment: baseline-center;
+-fx-hgap: 20;
+}
+
+
+#paneTop{
+-fx-background-color: navy;
+-fx-alignment: baseline-center;
+-fx-hgap:10;
+
+}
+
+#lblFontList{
+-fx-text-fill: white;
+-fx-font-family: serif;
+}
+
+#lblStyleList{
+-fx-text-fill: white;
+-fx-font-family: serif;
+}
+
+#lblSizeList{
+-fx-text-fill: white;
+-fx-font-family: serif;
+}
+
+#paneLeft{
+-fx-background-color: navy;
+
+}
+
+#lblText{
+-fx-text-fill: white;
+-fx-font-weight: bolder;
+}
+
+
+
+#paneRed{
+-fx-background-color: red;
+}
+
+#paneGreen{
+-fx-background-color: green;
+}
+
+#paneBlue{
+-fx-background-color: blue;
+}
+
+#lblRed{
+-fx-text-fill: white;
+-fx-font-family: Harrington;
+}
+
+#lblGreen{
+-fx-text-fill: white;
+-fx-font-family: Harrington;
+}
+
+
+#lblBlue{
+-fx-text-fill: white;
+-fx-font-family: Harrington;
+}
+
+Slider{
+-fx-show-tick-marks: true;
+-fx-show-tick-labels: true;
+-fx-block-increment: 51;
+
+}
+
+#paneBottomLeft{
+-fx-vgap: 10;
+-fx-hgap: 10;
+
+}
+
+#rec{
+-fx-text-fill: white;
+-fx-font-style: italic;
+}
+
+#oval{
+-fx-text-fill: white;
+-fx-font-style: italic;
+}
+
+#outline{
+-fx-text-fill: white;
+-fx-font-style: oblique;
+-fx-font-weight: bold;
+}
+
+
+#paneCenter{
+-fx-background-color: tan;
+-fx-border-style: dashed;
+}
+
